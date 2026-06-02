@@ -61,15 +61,6 @@ API REST desenvolvida no âmbito do ThinkTEd Lab voltada para soluções de desi
 
 ---
 
-### VortexNumerico
-Jogo educacional desenvolvido para o ensino de Matemática, com foco em pensamento computacional e engajamento por meio de mecânicas de jogo.
-
-| Repositório | Stack |
-|---|---|
-| [VortexNumerico](https://github.com/JeanMiguell/VortexNumerico) | Unity · Level Design |
-
----
-
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JeanMiguell&theme=dark&hide_border=true&locale=pt_BR)
