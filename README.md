@@ -73,9 +73,11 @@ Jogo educacional desenvolvido para o ensino de Matemática, com foco em pensamen
 ## GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JeanMiguell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMiguell&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JeanMiguell&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMiguell&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
 </div>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JeanMiguell&theme=dark&hide_border=true&locale=pt_BR)
 
 ---
 
