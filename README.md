@@ -10,7 +10,6 @@ Licenciando em Computação pela UEA, desenvolvedor backend e frontend com foco 
 - Desenvolvedor no **Laboratório Nexus** (P&D) e pesquisador no **ThinkTEd Lab**
 - Pesquisador nas áreas de **IA aplicada à educação** e **jogos educacionais**
 - Artigos publicados no [Google Scholar](https://scholar.google.com/citations?user=WQC9HMsAAAAJ&hl=pt-BR)
-- Deploy disponível em: [guia-do-viajante-frontend.vercel.app](https://guia-do-viajante-frontend.vercel.app)
 
 ---
 
