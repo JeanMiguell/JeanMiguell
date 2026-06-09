@@ -51,7 +51,7 @@ Plataforma educacional gamificada de história. Professores criam linhas do temp
 ---
 
 ### API Design Instrucional
-API REST desenvolvida no âmbito do ThinkTEd Lab voltada para soluções de design instrucional e tecnologia educacional.
+API REST desenvolvida no âmbito da disciplina de Design Instrucional para criação de um sistema educacional de Geografia.
 
 | Repositório | Stack |
 |---|---|
