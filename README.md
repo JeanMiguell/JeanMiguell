@@ -9,7 +9,6 @@ Licenciando em Computação pela UEA, desenvolvedor backend e frontend com foco 
 - Graduando em **Licenciatura em Computação** — UEA, Manaus/AM
 - Desenvolvedor no **Laboratório Nexus** (P&D) e pesquisador no **ThinkTEd Lab**
 - Pesquisador nas áreas de **IA aplicada à educação** e **jogos educacionais**
-- Artigos publicados no [Google Scholar](https://scholar.google.com/citations?user=WQC9HMsAAAAJ&hl=pt-BR)
 
 ---
 
